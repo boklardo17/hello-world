@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Hi guys, 
+
+  Please don't forget to subscribe!
